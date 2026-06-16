@@ -1,23 +1,13 @@
-# Marvonix Education – produkční statický web
+# Marvonix Education
 
-Web je připravený pro GitHub Pages, Netlify nebo běžný hosting.
+Produkční statický web připravený pro GitHub Pages / Netlify.
 
 ## Obsah
-- hlavní stránka Marvonix Education
-- program Finanční gramotnost v praxi
-- program Práva studentům
-- stránka Pro školy
-- katalog aktivních a připravovaných programů
-- O tvůrci
-- Kontakt
-- 3 SEO články
-- sitemap.xml, robots.txt, favicony a manifest převzaté z hlavního Marvonix webu
+- vícestránkový responzivní web
+- SEO metadata, Open Graph, sitemap.xml, robots.txt
+- favicony a ikony převzaté z brandu Marvonix
+- bezpečnostní hlavičky pro Netlify v souboru `_headers`
+- stránky programů, informace pro školy, kontakt, články
 
-## Kontakt uvedený na webu
-Martin Sobotka  
-IČO: 29629250  
-martin@marvonix.cz  
-+420 776 647 091
-
-## Poznámka
-Program Práva studentům je formulován jako informačně-vzdělávací projekt, nikoliv jako právní poradenství.
+## Nasazení
+Nahraj obsah ZIPu do repozitáře a nasaď přes Netlify nebo GitHub Pages.

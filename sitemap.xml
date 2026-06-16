@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://education.marvonix.cz/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://education.marvonix.cz/programy/financni-gramotnost.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/programy/prava-studentum.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/pro-skoly/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/projekty/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/o-tvurci/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/kontakt/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/blog/jak-si-vytvorit-rozpocet.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/blog/skolni-rad.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://education.marvonix.cz/blog/osvc-pri-studiu.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://education.marvonix.cz/</loc></url>
+<url><loc>https://education.marvonix.cz/programy/financni-gramotnost.html</loc></url>
+<url><loc>https://education.marvonix.cz/programy/prava-studentum.html</loc></url>
+<url><loc>https://education.marvonix.cz/pro-skoly/</loc></url>
+<url><loc>https://education.marvonix.cz/projekty/</loc></url>
+<url><loc>https://education.marvonix.cz/o-tvurci/</loc></url>
+<url><loc>https://education.marvonix.cz/kontakt/</loc></url>
+<url><loc>https://education.marvonix.cz/blog/jak-si-vytvorit-rozpocet.html</loc></url>
+<url><loc>https://education.marvonix.cz/blog/skolni-rad.html</loc></url>
+<url><loc>https://education.marvonix.cz/blog/osvc-pri-studiu.html</loc></url>
 </urlset>
