@@ -1,43 +1,40 @@
-# Vzdělávací projekty – web pro GitHub/Netlify
+# Vzdělávací projekty pro školy
 
-Hotový statický web pro prezentaci vzdělávacích programů:
+Hotový statický web připravený pro GitHub Pages, Netlify nebo běžný hosting.
 
+## Obsah webu
+
+- Hlavní stránka s prodejní prezentací programů
 - Finanční gramotnost v praxi
 - Práva studentům
-- Projekty
 - Pro školy
+- Projekty
+- O tvůrci
 - Kontakt
+- 3 SEO články
+- `sitemap.xml`, `robots.txt`, `404.html`
+- responzivní design a mobilní menu
+- lokální SVG assety bez externích fontů
+
+## Kontaktní údaje na webu
+
+Martin Sobotka  
+IČO: 29629250  
+E-mail: martin@marvonix.cz  
+Telefon: +420 776 647 091  
+
+## Transparentní formulace
+
+Projekty založil a provozuje Martin Sobotka jako OSVČ. Tým Marvonix zajišťuje technickou, organizační a komunikační podporu. Program Práva studentům je informačně-vzdělávací projekt, nikoliv právní poradenství.
 
 ## Nasazení na GitHub Pages
 
-1. Vytvoř nový repozitář.
-2. Nahraj všechny soubory ze složky do rootu repozitáře.
-3. V Settings → Pages nastav deploy z větve `main` a složky `/root`.
+1. Vytvoř repository.
+2. Nahraj všechny soubory z této složky do rootu repository.
+3. V GitHubu otevři Settings → Pages.
+4. Zvol větev `main` a složku `/root`.
+5. Ulož a počkej na vygenerování webu.
 
-## Nasazení na Netlify
+## Poznámka k sitemap
 
-1. Přetáhni celou složku nebo ZIP do Netlify.
-2. Formulář v `kontakt/index.html` je připravený na Netlify Forms (`data-netlify="true"`).
-3. Po prvním deployi zkontroluj, že se formulář objevil ve Forms.
-
-## Úpravy před ostrým spuštěním
-
-- V `sitemap.xml` a `robots.txt` nahraď `https://example.cz/` za skutečnou doménu.
-- Doplň reálný e-mail / telefon do kontaktu, pokud je chceš zveřejnit.
-- Přidej fotky z přednášek, jakmile budou k dispozici.
-- Doporučený název domény: něco jako `vzdelavaciprojekty.cz`, `pravastudentum.cz` nebo subdoména pod Marvonixem.
-
-## Struktura
-
-```
-index.html
-style.css
-script.js
-assets/
-programy/
-  financni-gramotnost.html
-  prava-studentum.html
-pro-skoly/
-projekty/
-kontakt/
-```
+V souboru `sitemap.xml` je dočasná doména `https://www.vzdelavaniproskoly.cz`. Po výběru finální domény ji nahraď skutečnou adresou.

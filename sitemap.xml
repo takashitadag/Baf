@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.cz/</loc></url>
-  <url><loc>https://example.cz/programy/financni-gramotnost.html</loc></url>
-  <url><loc>https://example.cz/programy/prava-studentum.html</loc></url>
-  <url><loc>https://example.cz/projekty/</loc></url>
-  <url><loc>https://example.cz/pro-skoly/</loc></url>
-  <url><loc>https://example.cz/kontakt/</loc></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/programy/financni-gramotnost.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/programy/prava-studentum.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/pro-skoly/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/projekty/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/o-tvurci/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/kontakt/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/blog/jak-si-vytvorit-rozpocet.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/blog/skolni-rad.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.vzdelavaniproskoly.cz/blog/osvc-pri-studiu.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

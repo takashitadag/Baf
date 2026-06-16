@@ -1,1 +1,5 @@
-const btn=document.querySelector('[data-menu]');const menu=document.querySelector('[data-nav]');if(btn&&menu){btn.addEventListener('click',()=>{menu.classList.toggle('open');btn.setAttribute('aria-expanded',menu.classList.contains('open'))})}document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>menu?.classList.remove('open')));const y=document.querySelector('[data-year]');if(y)y.textContent=new Date().getFullYear();
+
+const btn=document.querySelector('[data-menu]');
+const nav=document.querySelector('[data-nav]');
+if(btn&&nav){btn.addEventListener('click',()=>{const open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',String(open));});}
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{const id=a.getAttribute('href');if(id.length>1){const el=document.querySelector(id);if(el){e.preventDefault();el.scrollIntoView({behavior:'smooth',block:'start'});}}}));
