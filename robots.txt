@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://education.marvonix.cz/sitemap.xml
